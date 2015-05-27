@@ -12,5 +12,6 @@ ScheduleMaker Plus is an extension for Chrome that retrieves ratings and reviews
 
 It is available on the Chrome Store.
 
+Please follow this link 
 
-Please follow this link https://chrome.google.com/webstore/detail/schedulemaker-plus/dmmoimlkpbhpgjceanbniilmkbbibdgn
+https://chrome.google.com/webstore/detail/schedulemaker-plus/dmmoimlkpbhpgjceanbniilmkbbibdgn
