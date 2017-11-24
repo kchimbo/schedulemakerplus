@@ -1,4 +1,4 @@
-#ScheduleMaker Plus
+# ScheduleMaker Plus
 
 ScheduleMaker Plus is an extension for Chrome that retrieves ratings and reviews from ratemyprofessors and inserts them directly below the professor's name in CSH's ScheduleMaker.
 
