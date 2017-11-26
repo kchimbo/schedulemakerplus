@@ -1,16 +1,7 @@
 # ScheduleMaker Plus
 
-**NOTE:** This extension is not working with schedule.csh.rit.edu
+**NOTE:** This extension is not working with schedule.csh.rit.edu and won't be updated anymore.
 
-ScheduleMaker Plus is an extension for Chrome that retrieves ratings and reviews from ratemyprofessors and inserts them directly below the professor's name in CSH's ScheduleMaker.
+ScheduleMaker Plus was an extension for Chrome that retrieves ratings and reviews from ratemyprofessors and inserts them directly below the professor's name in CSH's ScheduleMaker.
 
-## TODO
-
-* Colors for the rating depending on the score
-* HTTPS Tunnel to work with the current version of ScheduleMaker
-
-## Download
-
-Available at the Chrome Store
-
-https://chrome.google.com/webstore/detail/schedulemaker-plus/dmmoimlkpbhpgjceanbniilmkbbibdgn
+See [Finding ratemyprofessors Finding Private APIs with Chrome Developer Tools](https://medium.com/@williamyeny/finding-ratemyprofessors-private-api-with-chrome-developer-tools-bd6747dd228d) for more information about the reasons.
